@@ -1,0 +1,146 @@
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+	>
+	<channel>
+		<wp:wxr_version>1.2</wp:wxr_version>
+		<!-- Type: POST -->
+		<item>
+			<title><![CDATA[Interdum Suscipit Class Scelerisque Convallis]]></title>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[interdum-suscipit-class-scelerisque-convallis]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Parturient scelerisque quis tincidunt erat venenatis volutpat class aenean inceptos at justo donec hac netus, semper malesuada mus feugiat amet felis et pharetra diam placerat cras condimentum.</p><p>Praesent faucibus lacus dictumst integer massa tristique vivamus ipsum, lorem scelerisque risus sociosqu lobortis habitasse himenaeos ac, class platea aliquam pharetra malesuada inceptos orci.</p> <p>Mi est quis mollis leo hendrerit cubilia maecenas turpis, id senectus lectus proin parturient arcu accumsan platea nascetur, dignissim adipiscing curae et pharetra lacus cras.</p> <p>Nascetur at tincidunt ullamcorper metus rutrum netus bibendum augue nostra consectetur molestie blandit, inceptos magnis nam morbi semper urna lorem turpis venenatis aliquet lacus.</p><blockquote>Dictumst posuere nisl primis pretium orci enim, condimentum aliquet egestas viverra ultricies volutpat sociosqu, metus quisque vitae porttitor in.</blockquote><p>Penatibus enim eros potenti auctor proin primis amet metus facilisi, tincidunt habitant euismod lobortis posuere cras sociosqu porttitor praesent rutrum, dui dis maecenas iaculis mattis libero urna tempus.</p> <p>Sociosqu etiam augue habitasse litora ornare nec nostra cubilia, id morbi placerat penatibus nam quis quam elementum justo, diam purus fringilla venenatis interdum metus mollis.</p> <p>Cursus vehicula nunc elit primis ligula conubia faucibus turpis nibh hac enim class commodo, non ornare scelerisque natoque est et maecenas himenaeos in sociis dictum vestibulum.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+			<category domain="category" nicename="vivamus"><![CDATA[vivamus]]></category>
+			<category domain="category" nicename="ante"><![CDATA[ante]]></category>
+			<category domain="category" nicename="nisl"><![CDATA[nisl]]></category>
+			<category domain="post_tag" nicename="scelerisque"><![CDATA[scelerisque]]></category>
+			<category domain="post_tag" nicename="turpis"><![CDATA[turpis]]></category>
+			<category domain="post_tag" nicename="sem"><![CDATA[sem]]></category>
+		</item>
+			
+		<item>
+			<title><![CDATA[Habitasse Tellus]]></title>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[habitasse-tellus]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Egestas primis aptent morbi quam nec sollicitudin per mauris, erat rhoncus fringilla ligula laoreet a eget ornare dis, feugiat mollis posuere sit luctus aliquet pulvinar.</p><p>Faucibus sociis eget imperdiet diam vestibulum malesuada dignissim magnis quam egestas sollicitudin, justo per porta himenaeos vitae volutpat fringilla duis adipiscing praesent, congue vivamus platea blandit pellentesque facilisi dapibus fusce aenean primis.</p> <p>Porta dictum porttitor odio magnis tellus arcu congue euismod sollicitudin lacus, hac eleifend dui amet parturient diam at himenaeos duis habitasse, leo purus ligula curabitur cubilia eros suspendisse fusce ut.</p><blockquote>Suspendisse congue mollis ut vestibulum morbi blandit vel interdum volutpat, elementum nisl curabitur integer cursus varius habitant iaculis, bibendum per litora amet sit rutrum luctus diam.</blockquote><p>Diam sed proin dolor tempor vel amet lacinia commodo vivamus ullamcorper iaculis, egestas mus non euismod eleifend nascetur donec auctor imperdiet nisi nulla sociis, taciti augue scelerisque sit nunc in fringilla magna sociosqu rutrum.</p> <p>Penatibus aliquet dictumst nam blandit diam sodales congue interdum, montes in eget bibendum integer mauris torquent mollis, urna potenti risus nibh at augue quis.</p> <p>Vitae sollicitudin nostra nulla auctor purus venenatis donec, natoque commodo porttitor pulvinar faucibus phasellus primis, enim torquent elementum feugiat dignissim felis.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+			<category domain="category" nicename="hendrerit"><![CDATA[hendrerit]]></category>
+			<category domain="category" nicename="porta"><![CDATA[porta]]></category>
+			<category domain="category" nicename="adipiscing"><![CDATA[adipiscing]]></category>
+			<category domain="post_tag" nicename="cras"><![CDATA[cras]]></category>
+			<category domain="post_tag" nicename="nec"><![CDATA[nec]]></category>
+		</item>
+			
+		<item>
+			<title><![CDATA[Libero Praesent Conubia]]></title>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[libero-praesent-conubia]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Vehicula morbi duis diam eget facilisi libero viverra suscipit himenaeos, felis ullamcorper netus dictum auctor tempus montes gravida, sodales nibh vulputate eleifend vestibulum aliquam parturient pharetra.</p> <p>Placerat volutpat consectetur eros commodo tellus est lorem a orci, nostra tortor interdum primis pharetra ultricies viverra.</p> <p>Adipiscing fames malesuada parturient rhoncus nisl erat pretium vehicula accumsan, suspendisse lectus platea inceptos facilisis diam morbi phasellus convallis, libero sit ac dolor felis montes sodales id, sociosqu odio magna dictum fringilla elementum egestas taciti.</p><p>Nisl convallis congue vulputate interdum cubilia eros class sed, phasellus sociosqu id aliquet vehicula vitae ac, quis porta senectus turpis sodales parturient viverra.</p><blockquote>Magnis torquent commodo velit primis dui rhoncus proin sapien vulputate, ullamcorper lorem condimentum mattis et sed magna.</blockquote><p>Neque porttitor faucibus ultrices feugiat inceptos eros non tincidunt vitae, sollicitudin sociis litora porta rutrum ridiculus volutpat sociosqu arcu, mauris ac proin purus magna turpis primis tellus.</p> <p>Accumsan adipiscing nulla convallis commodo turpis lectus, tortor lobortis a auctor dignissim placerat, tempus rutrum rhoncus penatibus congue.</p> <p>Nec vel risus odio ullamcorper habitant proin dis ipsum senectus, elit laoreet lacinia consectetur sociosqu fusce maecenas eleifend gravida, luctus class faucibus augue viverra vehicula purus magna.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+			<category domain="category" nicename="lorem"><![CDATA[lorem]]></category>
+			<category domain="category" nicename="urna"><![CDATA[urna]]></category>
+			<category domain="category" nicename="lacus"><![CDATA[lacus]]></category>
+			<category domain="post_tag" nicename="id"><![CDATA[id]]></category>
+		</item>
+			
+		<item>
+			<title><![CDATA[Cursus Pulvinar Lobortis Nec]]></title>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[cursus-pulvinar-lobortis-nec]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Convallis aptent diam curae rhoncus maecenas, purus tempus leo sit, sollicitudin fermentum feugiat vivamus.</p> <p>Himenaeos vehicula ligula donec eget class venenatis vitae ultrices sit ac diam, id justo cursus potenti montes dictumst nibh ipsum quam arcu, phasellus neque pretium ut eu netus habitasse rhoncus dapibus commodo.</p> <p>Consequat pulvinar ultrices est ridiculus mattis euismod per magnis nunc, conubia elit cubilia vivamus auctor natoque integer augue fames, aptent duis pharetra porta rhoncus pellentesque lectus adipiscing.</p><p>Rhoncus sem eu aliquam taciti phasellus id etiam amet fames nulla metus fermentum, facilisi velit hendrerit sapien mauris praesent magna pellentesque dolor diam.</p><blockquote>Egestas torquent taciti etiam eget pulvinar, sociis augue faucibus facilisis semper risus, curae lorem magna libero.</blockquote><p>Aliquam morbi parturient bibendum litora vitae ut, dapibus urna massa a pretium accumsan euismod, mi varius felis malesuada velit nascetur, dis praesent donec tempor interdum.</p> <p>In enim adipiscing duis magnis litora cum mus phasellus, nisl erat pellentesque vitae dapibus odio commodo cubilia, a consequat faucibus interdum mi massa ad.</p> <p>Bibendum aliquet quis odio sed tempus non amet, nec egestas nisl aenean sociosqu mi morbi neque, rutrum ridiculus sollicitudin parturient penatibus sociis.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+			<category domain="category" nicename="feugiat"><![CDATA[feugiat]]></category>
+			<category domain="category" nicename="felis"><![CDATA[felis]]></category>
+			<category domain="post_tag" nicename="eleifend"><![CDATA[eleifend]]></category>
+			<category domain="post_tag" nicename="nostra"><![CDATA[nostra]]></category>
+		</item>
+			
+		<item>
+			<title><![CDATA[Vivamus Congue Dignissim]]></title>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[vivamus-congue-dignissim]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Sapien ligula mi ullamcorper interdum nulla convallis conubia, viverra at commodo dignissim erat duis vitae fermentum, ipsum leo urna arcu congue nunc.</p><p>Tempus hendrerit senectus ac quisque sit eget penatibus, habitant congue conubia at velit justo placerat, phasellus enim habitasse molestie turpis per.</p> <p>Convallis luctus cursus tempus adipiscing eros malesuada pulvinar urna, justo sapien dictumst accumsan est habitant rhoncus sagittis metus, ad a risus dolor quis aliquet natoque.</p> <p>Torquent urna nullam convallis lectus nulla duis nascetur id, mollis phasellus velit augue luctus morbi per, ultrices ligula rhoncus lorem vel erat felis.</p><blockquote>In potenti parturient nunc fames luctus conubia mauris pulvinar ligula, augue lobortis consequat laoreet imperdiet tempor diam fermentum, auctor vel lorem congue at velit duis nascetur.</blockquote><p>Eu consequat diam tempor habitant cursus elit tempus nunc vestibulum vitae rutrum neque magna viverra velit, ridiculus risus facilisis nostra mi urna auctor parturient ultrices potenti dictumst nisi ut bibendum.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+			<category domain="category" nicename="aliquam"><![CDATA[aliquam]]></category>
+			<category domain="category" nicename="cursus"><![CDATA[cursus]]></category>
+			<category domain="post_tag" nicename="vivamus"><![CDATA[vivamus]]></category>
+			<category domain="post_tag" nicename="a"><![CDATA[a]]></category>
+		</item>
+			
+		<!-- Type: PAGE -->
+		<item>
+			<title><![CDATA[Nascetur Gravida Integer Semper Lacus]]></title>
+			<wp:post_type><![CDATA[page]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[nascetur-gravida-integer-semper-lacus]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Pretium orci neque et pulvinar vel vehicula bibendum magnis adipiscing, etiam pellentesque est sapien sodales duis nisi venenatis urna, porta praesent consectetur convallis aptent amet cras nam.</p> <p>Rhoncus sollicitudin quisque parturient auctor adipiscing metus, praesent semper turpis ullamcorper platea varius per, tempus nostra felis facilisi egestas.</p> <p>Inceptos consectetur vehicula massa orci fringilla elementum, nulla et curabitur natoque cum.</p><p>Nunc convallis blandit hac per venenatis molestie volutpat, auctor fusce commodo aliquam velit scelerisque non justo, ligula donec varius turpis himenaeos neque.</p> <p>Conubia feugiat phasellus felis nullam pharetra auctor sit commodo pellentesque, aenean vulputate sociosqu vel scelerisque dapibus bibendum semper convallis, ligula elementum massa egestas facilisi eleifend torquent nostra.</p> <p>Vel pellentesque phasellus quis blandit pretium bibendum ac et hendrerit lobortis, dui praesent platea diam nibh duis volutpat proin eros nostra, placerat hac dis nec conubia ornare orci sagittis venenatis.</p><blockquote>Parturient ligula eu placerat vestibulum blandit sem feugiat primis aliquet torquent amet condimentum est, varius mattis convallis cubilia cursus sagittis risus tempor dignissim non habitant.</blockquote><p>Platea aptent in congue taciti dictum imperdiet tellus, eget hendrerit nisl ad augue praesent, fusce vestibulum bibendum parturient adipiscing metus.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+		</item>
+			
+		<item>
+			<title><![CDATA[Ultricies Quis Amet Fermentum]]></title>
+			<wp:post_type><![CDATA[page]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[ultricies-quis-amet-fermentum]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Velit dictumst parturient non lacinia luctus facilisis egestas nulla nascetur mus ipsum, conubia vestibulum quis sed nullam pulvinar duis porttitor ornare platea justo, risus hendrerit ad hac lobortis etiam dis magnis mauris auctor.</p> <p>Mattis placerat scelerisque aliquam fusce consequat quisque et sociis nisl mi ipsum, ac praesent dictumst ligula nascetur cubilia dui felis posuere.</p><p>Ipsum sed dictumst dictum facilisis leo elit aptent erat, lobortis fames montes elementum nisi ornare convallis massa, adipiscing magna fermentum ridiculus quam nascetur malesuada.</p> <p>Ad cubilia molestie porttitor semper hendrerit morbi, congue tortor rutrum dapibus nibh sed pellentesque, ridiculus lacinia erat inceptos augue.</p> <p>Taciti tempus elit pulvinar etiam sagittis class ac turpis ante ridiculus, posuere habitasse odio a dictumst ultricies amet ad interdum, accumsan praesent massa nibh aliquam sapien sit molestie nulla.</p><blockquote>Neque vitae augue torquent felis lacinia pharetra gravida convallis nec facilisi auctor viverra ipsum nisi, aenean donec senectus hac fringilla bibendum conubia quisque nascetur lorem mauris primis.</blockquote><p>Condimentum potenti lacus nascetur suscipit accumsan pulvinar nibh, sollicitudin non fringilla praesent parturient varius, facilisi aliquet nisi elementum in egestas.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+		</item>
+			
+		<item>
+			<title><![CDATA[Justo Parturient Quisque]]></title>
+			<wp:post_type><![CDATA[page]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[justo-parturient-quisque]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Non taciti ad cum primis neque dis maecenas nibh fermentum metus egestas, condimentum ut luctus praesent cras vivamus cursus vel pretium.</p><p>Ligula consequat accumsan ridiculus quisque lacinia mauris dignissim, eu vestibulum eleifend vulputate et.</p> <p>Ridiculus maecenas adipiscing est elementum mauris parturient aptent sociosqu, euismod hac primis purus pretium commodo leo eleifend, velit suspendisse diam vel condimentum curabitur nunc.</p> <p>Posuere auctor scelerisque non viverra nisi, vulputate magnis luctus vehicula sodales, conubia eget leo cubilia.</p><blockquote>Gravida mus venenatis pharetra sociosqu enim condimentum cursus justo congue, accumsan ultrices montes habitasse morbi nullam convallis lacus, pulvinar aptent elementum faucibus nulla quis eros nisi.</blockquote><p>Neque dapibus luctus malesuada sagittis curae velit porta, iaculis arcu posuere elementum laoreet dignissim senectus, ante ad nec orci potenti convallis.</p> <p>Sodales neque ipsum metus hendrerit volutpat pulvinar convallis purus arcu habitant, molestie dolor accumsan sem mattis morbi platea penatibus urna, netus curabitur fringilla vel dignissim feugiat vivamus turpis pellentesque.</p> <p>Et habitant sodales eget malesuada mi euismod convallis donec, maecenas feugiat massa velit consequat adipiscing cubilia suscipit condimentum, ligula nunc commodo tortor inceptos blandit nisl.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+		</item>
+			
+		<item>
+			<title><![CDATA[Nulla Nibh]]></title>
+			<wp:post_type><![CDATA[page]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[nulla-nibh]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Tortor tellus dis diam etiam vestibulum laoreet dolor, eros tincidunt sociosqu enim neque dignissim lobortis, adipiscing consectetur taciti a congue blandit.</p> <p>Senectus taciti fermentum egestas dolor etiam nam metus, vulputate ullamcorper penatibus eleifend quam proin himenaeos cubilia, semper dictum pellentesque porttitor tempus natoque.</p><p>Sit varius feugiat bibendum inceptos velit ultrices ultricies eu viverra, vivamus odio blandit eleifend in proin aliquet ante, nunc mi sed ad tincidunt tristique conubia congue.</p><blockquote>Tempus pulvinar sagittis rhoncus dignissim libero integer ipsum curabitur placerat, egestas nostra parturient urna morbi fames taciti scelerisque consectetur, dui dictumst habitant mattis semper etiam ac arcu.</blockquote><p>In proin suspendisse ornare fames orci gravida sit etiam netus nisl donec, parturient felis condimentum tristique erat dis molestie ullamcorper class morbi, non sem nec tempus per placerat a dictum aliquam curae.</p> <p>Habitant imperdiet mollis nunc nascetur suscipit maecenas nostra malesuada platea, duis nam dictum lobortis odio laoreet parturient etiam elit, praesent at dis est mauris gravida magna massa.</p> <p>Fermentum rhoncus augue luctus proin fames convallis platea dictum ad justo, scelerisque torquent potenti ridiculus neque dui phasellus non commodo sed morbi, lacinia consectetur taciti nascetur porta at quis pellentesque nullam.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+		</item>
+			
+		<item>
+			<title><![CDATA[Ante Fermentum]]></title>
+			<wp:post_type><![CDATA[page]]></wp:post_type>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[ante-fermentum]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<content:encoded><![CDATA[<p>Inceptos augue malesuada ultrices feugiat imperdiet auctor euismod adipiscing curabitur libero ad, aliquet lorem dui laoreet platea nisi mi rhoncus iaculis aliquam semper felis, suscipit sollicitudin ante integer tempus taciti orci hendrerit cursus maecenas.</p> <p>Placerat class libero proin gravida arcu fames viverra convallis vitae facilisis, pretium vehicula elit porttitor maecenas cum consequat bibendum senectus.</p> <p>Viverra lacinia velit varius litora morbi augue tellus quam et tincidunt erat a, felis sodales sed ipsum molestie nunc neque etiam suspendisse mus sollicitudin.</p><p>Metus justo platea aenean hendrerit rutrum senectus quis, aptent ultricies duis consequat netus viverra, accumsan dis facilisi est sit mollis.</p> <p>Magnis molestie cubilia egestas eget est mus curae placerat etiam, parturient gravida eleifend aliquet nec natoque convallis.</p> <p>Elementum amet mus torquent aliquet consequat odio enim cubilia, semper viverra neque vehicula magna nibh purus dui nam, conubia tristique dignissim lacus dapibus himenaeos sed.</p><blockquote>Congue lacinia scelerisque posuere vitae metus tortor nibh vestibulum, ad nec litora laoreet imperdiet feugiat sollicitudin consectetur eleifend, ridiculus turpis dignissim aenean et egestas nulla.</blockquote><p>Phasellus consequat feugiat primis metus felis himenaeos porta fringilla montes ligula, nisi hendrerit tempor turpis ipsum erat sociosqu habitant at semper, conubia risus integer proin in platea leo praesent massa.</p> <p>Facilisi tellus ligula faucibus eleifend natoque molestie, consectetur orci pellentesque cum sagittis mauris netus, integer metus pulvinar sem sociis.</p>]]></content:encoded>
+			<dc:creator><![CDATA[root@localhost]]></dc:creator>
+		</item>
+			
+	</channel>
+</rss>
